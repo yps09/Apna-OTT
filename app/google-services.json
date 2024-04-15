@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905910961110",
+    "project_id": "apnaott-55f6f",
+    "storage_bucket": "apnaott-55f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905910961110:android:6e9c057fba483742d31a77",
+        "android_client_info": {
+          "package_name": "com.android.apnaott"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6JhtOTfzfvOgmmLSJdQktjHqUEl2Ajw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

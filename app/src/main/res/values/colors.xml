@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#4845F6</color>
+    <color name="purple_500">#151c25</color>
+    <color name="purple_700">#151c25</color>
+    <color name="color_holo_light_blue">#566f9a</color>
+    <color name="player_bg">#000000</color>
+    <color name="color_bg_blue">#1a243f</color>
+    
+</resources>
